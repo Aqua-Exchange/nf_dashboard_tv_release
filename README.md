@@ -1,4 +1,5 @@
 # nf_dashboard_tv_release
 
 
-[nextfarm_dashborad_v1.0.40(1).zip](https://github.com/user-attachments/files/16763485/nextfarm_dashborad_v1.0.40.1.zip)
+
+[nextfarm_dashboard_v1.0.41.zip](https://github.com/user-attachments/files/16783785/nextfarm_dashboard_v1.0.41.zip)
