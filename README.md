@@ -3,7 +3,8 @@
 
 
 
-[nextfarm_dashboard_v1.0.44(dev-deploy).zip](https://github.com/user-attachments/files/17028410/nextfarm_dashboard_v1.0.44.dev-deploy.zip)
+
+[nextfarm_dashboard_v1.0.44(dev-deploy).zip](https://github.com/user-attachments/files/17058720/nextfarm_dashboard_v1.0.44.dev-deploy.zip)
 
 
 
