@@ -1,4 +1,3 @@
-[nextfarm_dashboard_V1.0.46(6d).zip](https://github.com/user-attachments/files/17108429/nextfarm_dashboard_V1.0.46.6d.zip)# nf_dashboard_tv_release
 
 [nextfarm_dashboard_V1.0.45(1).zip](https://github.com/user-attachments/files/17060519/nextfarm_dashboard_V1.0.45.1.zip)
 
@@ -7,4 +6,4 @@
 [nextfarm_dashboard_v1.0.46.zip](https://github.com/user-attachments/files/17077773/nextfarm_dashboard_v1.0.46.zip)
 
 
-[nextfarm_dashboard_V1.0.46(6d).zip](https://github.com/user-attachments/files/17108373/nextfarm_dashboard_V1.0.46.6d.zip)
+[nextfarm_dashboard_V1.0.45(7d).zip](https://github.com/user-attachments/files/17110258/nextfarm_dashboard_V1.0.45.7d.zip)
