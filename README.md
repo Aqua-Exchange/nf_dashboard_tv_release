@@ -7,5 +7,3 @@
 [nextfarm_dashboard_v1.0.46.zip](https://github.com/user-attachments/files/17077773/nextfarm_dashboard_v1.0.46.zip)
 
 
-
-[nextfarm_dashboard_v1.0.45(5d).zip](https://github.com/user-attachments/files/17092830/nextfarm_dashboard_v1.0.45.5d.zip)
