@@ -1,7 +1,8 @@
 
 [nextfarm_dashboard_V1.0.45(1).zip](https://github.com/user-attachments/files/17060519/nextfarm_dashboard_V1.0.45.1.zip)
 
-[nextfarm_dashbaord_v1.0.48.zip](https://github.com/user-attachments/files/17210989/nextfarm_dashbaord_v1.0.48.zip)
+
+[nf_dashboard_v1.0.49.zip](https://github.com/user-attachments/files/17243356/nf_dashboard_v1.0.49.zip)
 
 
 
