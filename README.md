@@ -4,8 +4,9 @@
 
 
 
-[nextfarm_dashboard_V1.0.49.zip](https://github.com/user-attachments/files/17251843/nextfarm_dashboard_V1.0.49.zip)
 
+
+[nextfarm_dashboard_V1.0.50.zip](https://github.com/user-attachments/files/17253935/nextfarm_dashboard_V1.0.50.zip)
 
 
 
