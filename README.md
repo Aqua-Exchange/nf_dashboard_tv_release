@@ -9,4 +9,5 @@ dev-graphql :[nextfarm_dashboard_v1.0.52(4d).zip](https://github.com/user-attach
 
 
 
-live :[nextfarm_dashboard_v1.0.52.zip](https://github.com/user-attachments/files/17338264/nextfarm_dashboard_v1.0.52.zip)
+live :
+[nextfarm_dashboard_v1.0.53.zip](https://github.com/user-attachments/files/17477813/nextfarm_dashboard_v1.0.53.zip)
