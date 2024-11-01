@@ -8,5 +8,6 @@ dev-graphql :[nextfarm_dashboard_tv_1.0.53_2d.zip](https://github.com/user-attac
 
 
 live : 
-[nextfarm_dashboard_v1.0.61.zip](https://github.com/user-attachments/files/17598758/nextfarm_dashboard_v1.0.61.zip)
 
+
+[nextfarm_dashboard_v1.0.62.zip](https://github.com/user-attachments/files/17599016/nextfarm_dashboard_v1.0.62.zip)
