@@ -1,9 +1,10 @@
-
+[nextfarm_dashboard_tv_v1.0.62(3d).zip](https://github.com/user-attachments/files/17643371/nextfarm_dashboard_tv_v1.0.62.3d.zip)
 dev: 
 
 
 
-dev-graphql : [web.zip](https://github.com/user-attachments/files/17643300/web.zip)
+dev-graphql : [nextfarm_dashboard_tv_v1.0.62(3d).zip](https://github.com/user-attachments/files/17643373/nextfarm_dashboard_tv_v1.0.62.3d.zip)
+
 
 live : 
 
