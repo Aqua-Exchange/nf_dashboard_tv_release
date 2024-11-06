@@ -1,9 +1,9 @@
 
-dev: [nextfarm_dashbaord_V1.0.52(4).zip](https://github.com/user-attachments/files/17455890/nextfarm_dashbaord_V1.0.52.4.zip)
+dev: 
 
 
-dev-graphql : [nextfarm_dashboard_v1.0.62(1d).zip](https://github.com/user-attachments/files/17600126/nextfarm_dashboard_v1.0.62.1d.zip)
 
+dev-graphql : [web.zip](https://github.com/user-attachments/files/17643300/web.zip)
 
 live : 
 
