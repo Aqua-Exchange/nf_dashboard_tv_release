@@ -3,6 +3,6 @@ dev: [nextfarm_dashboard_v1.0.63(1d).zip](https://github.com/user-attachments/fi
 
 
 
-dev-graphql :[nextfarm_dashboard_V1.0.63(3d).zip](https://github.com/user-attachments/files/17718443/nextfarm_dashboard_V1.0.63.3d.zip)
 
+dev-graphql :[nextfarm_dashboard_V1.0.63(3d).zip](https://github.com/user-attachments/files/17718843/nextfarm_dashboard_V1.0.63.3d.zip)
 live :[nextfarm_dashboard_V1.0.63.zip](https://github.com/user-attachments/files/17645743/nextfarm_dashboard_V1.0.63.zip)
