@@ -7,5 +7,5 @@ dev: [nextfarm_dashboard_v1.0.63(1d).zip](https://github.com/user-attachments/fi
 
 dev-graphql :[nextfarm_dashboard_v1.0.67(1d).zip](https://github.com/user-attachments/files/17770644/nextfarm_dashboard_v1.0.67.1d.zip)
 
-live :[nextfarm_dashboard_tv_v1.0.68.zip](https://github.com/user-attachments/files/17784050/nextfarm_dashboard_tv_v1.0.68.zip)
 
+live :[nextfarm_dashboard_tv_v1.0.69.zip](https://github.com/user-attachments/files/17799172/nextfarm_dashboard_tv_v1.0.69.zip)
