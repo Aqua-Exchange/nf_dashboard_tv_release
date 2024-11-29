@@ -3,7 +3,8 @@
 
 
 
+dev-graphql : [nextfarm_dashboard_v1.0.75(3d).zip](https://github.com/user-attachments/files/17959764/nextfarm_dashboard_v1.0.75.3d.zip)
 
-dev-graphql : [nextfarm_dashboard_tv_v1.0.75(2d).zip](https://github.com/user-attachments/files/17957556/nextfarm_dashboard_tv_v1.0.75.2d.zip)
+
 
 live : [nextfarm_dashboard_tv_v1.0.74.zip](https://github.com/user-attachments/files/17931758/nextfarm_dashboard_tv_v1.0.74.zip)
