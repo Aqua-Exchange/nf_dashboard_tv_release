@@ -1,5 +1,4 @@
-dev: [nextfarm_dashboard_tv_V1.0.84_1d.zip](https://github.com/user-attachments/files/18164692/nextfarm_dashboard_tv_V1.0.84_1d.zip)
-
+dev: [nextfarm_dashboard_tv_V1.0.84_1d.zip](https://github.com/user-attachments/files/18164850/nextfarm_dashboard_tv_V1.0.84_1d.zip)
 
 
 live :[nextfarm_dashboard_tv_v1.0.84.zip](https://github.com/user-attachments/files/18164373/nextfarm_dashboard_tv_v1.0.84.zip)
