@@ -1,4 +1,5 @@
-dev: [nextfarm_dashboard_v1.0.94(1d).zip](https://github.com/user-attachments/files/18345664/nextfarm_dashboard_v1.0.94.1d.zip)
+dev: [nextfarm_dashboard_v1.0.94(2d).zip](https://github.com/user-attachments/files/18346874/nextfarm_dashboard_v1.0.94.2d.zip)
+
 
 
 
