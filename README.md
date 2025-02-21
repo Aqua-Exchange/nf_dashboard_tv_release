@@ -4,7 +4,7 @@
 
 
 
-dev:[nf_dashboard_v1.1.1_d6.zip](https://github.com/user-attachments/files/18769015/nf_dashboard_v1.1.1_d6.zip)
+dev:[nf_dashboard_v1.1.2_d8.zip](https://github.com/user-attachments/files/18907150/nf_dashboard_v1.1.2_d8.zip)
 
 
 
